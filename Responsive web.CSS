@@ -1,3 +1,35 @@
+nav{
+    color:black;
+}
+.navbar{
+    color:purple;
+
+}
+.nav-item{
+    color:brown;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+.btn {
+    text-align: center;
+}
+section menu{
+    text-align: none;
+   
+}
 p{
-    
+    text-align: leftr;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.col-8{
+    text-align: right;
 }
