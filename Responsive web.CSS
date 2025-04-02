@@ -20,7 +20,7 @@ section menu{
    
 }
 p{
-    text-align: leftr;
+    text-align: ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: normal;
 }
@@ -32,4 +32,9 @@ body{
 }
 .col-8{
     text-align: right;
+}
+footer{
+    background-color: aquamarine;
+    height:100px ;
+    width: px;
 }
